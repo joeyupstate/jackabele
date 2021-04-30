@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+
+body { 
+    background: url("./man.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+  }
+#name-container{
+    border:1px solid black;
+
+}
+  .title-heading{
+    font-family: 'Noto Serif', serif;
+    color:white;
+    font-size: 70px;
+  }
+
+  .title-h5{
+    font-family: 'Noto Serif', serif;
+    color:white;
+    font-size: 20px;
+
+  }
